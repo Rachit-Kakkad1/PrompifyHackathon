@@ -1,7 +1,7 @@
 # 🌐 Promipfy Hackathon Project – [Your Project Name Here]
 
 ### 🏆 Built for Promipfy Web Design Hackathon 2025  
-*Team Size: 2 | Duration: 1 Hour | Tools Used: HTML*, CSS*, JavaScript,
+*Team Size: 2 | Duration: 1 Hour | Tools Used: HTML, CSS, JavaScript,
 
 ---
 
